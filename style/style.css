@@ -1,0 +1,30 @@
+* {
+    background-color: #FAFAFA;
+}
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 45px;
+}
+
+.recipe-button{
+    text-align: center;
+    background-color: #FAFAFA;
+}
+img {
+    width: 250px;
+    height: auto;
+    text-align: center;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+div {
+    color:antiquewhite;
+    background-color:black;
+}
+
+.description {
+    color:black;
+}
